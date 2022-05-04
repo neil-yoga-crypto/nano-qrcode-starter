@@ -33,7 +33,6 @@ When using a subdirectory be sure to replace the base variable in ./vite.config.
 npm run-script build
 zip -r dist.zip dist
 # upload/unarchive on webserver
-
 ```
 
 ### Bonus: Keep things alive
