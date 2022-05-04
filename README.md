@@ -1,9 +1,6 @@
 #### Nano QR Code Starter
 ![nano](nano.gif)
 
-This template should help get you started developing your Nano checkout.
-
-
 The template uses Vue 3 with Vite for optimal (development) speed.
 
 ## Install
