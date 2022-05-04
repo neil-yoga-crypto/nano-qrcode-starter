@@ -14,7 +14,7 @@ npm run dev
 ```
 
 ## Install in existing Vue 3 project
-In case you already have an existing Vue 3 project, and you want to use this component, you can easily install the dependencies and copy the component like this:
+In case you already have an existing Vue 3 project, and you just want to use the QR code component, you can easily install the dependencies and copy the component like this:
 ```
 npm install copy-to-clipboard --save
 npm install qrcode --save
