@@ -24,7 +24,7 @@ git clone https://github.com/neil-yoga/nano-qrcode-starter
 cp nano-qrcode-starter/src/components/nanoqr.vue [your_project_component_dir]
 ```
 
-And include the Nano QRCode component via:
+And include the component in your template via:
 ```
 <nanoqr :address=address :width="360" :height="360" :hideText=false />
 ```
