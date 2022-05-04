@@ -21,6 +21,14 @@ And include the Nano QRCode component via:
 <nanoqr :address=address :width="360" :height="360" :hideText=false />
 ```
 
+## Build & Deploy
+```
+npm run-script build
+zip -r dist.zip dist
+# upload/unarchive on webserver
+
+```
+
 ### Bonus: Keep things alive
 ```
 // Enjoy the free code sharing. 
