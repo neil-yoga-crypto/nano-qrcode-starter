@@ -3,6 +3,8 @@
 
 The template uses Vue 3 with Vite for optimal (development) speed.
 
+Live example: https://every.yoga/nano/
+
 ## Install
 Be sure to replace the wallet address in src/App.vue.
 ```
@@ -22,6 +24,7 @@ And include the Nano QRCode component via:
 ```
 
 ## Build & Deploy
+When using a subdirectory be sure to replace the base variable in ./vite.config.js.
 ```
 npm run-script build
 zip -r dist.zip dist
