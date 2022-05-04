@@ -5,6 +5,8 @@ The template uses Vue 3 with Vite for optimal (development) speed.
 
 Live example: https://every.yoga/nano/
 
+Happy coding, and namaste 🙏! 
+
 ## Install
 Be sure to replace the wallet address in src/App.vue.
 ```
