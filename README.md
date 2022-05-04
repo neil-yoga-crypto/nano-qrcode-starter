@@ -13,9 +13,12 @@ npm install
 npm run dev
 ```
 
-If you're already have an existing Vue 3 project you can copy the component:
+In case you already have an existing Vue 3 project, and you want to use this component, you can easily install the dependencies and copy the component like this:
 ```
-cp /src/components/nanoqr.vue [your_project_component_dir]
+npm install --save copy-to-clipboard
+npm install qrcode --save
+git clone https://github.com/neil-yoga/nano-qrcode-starter
+cp nano-qr-starter/src/components/nanoqr.vue [your_project_component_dir]
 ```
 
 And include the Nano QRCode component via:
