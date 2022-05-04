@@ -15,7 +15,7 @@ npm run dev
 ```
 
 If you're already have an existing Vue 3 project you can copy the component:
-``
+```
 cp /src/components/nanoqr.vue [your_project_component_dir]
 ```
 
